@@ -7,13 +7,13 @@ import Form from "./Form/index";
 function Todo() {
   const [contacts, setContacts] = useState([
     {
-      task: "yusuf",
+      task: "Drink water",
     },
     {
-      task: "ahmet",
+      task: "Eat apple",
     },
     {
-      task: "şahan",
+      task: "Do your homework",
     },
   ]);
 
